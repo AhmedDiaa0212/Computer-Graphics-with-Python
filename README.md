@@ -10,21 +10,10 @@ To run the code in this repository, you need to have Python installed on your ma
 
 This directory contains examples of drawing using the graphics library:
 
-- `flags.py`: This file showcases the drawing of three flags using the Graphics library.The user can specify the name of the country that he wants to display. The flags included are:
-
-Iraq Flag
-Syria Flag
-Yemen Flag
+- `flags.py`: This file showcases the drawing of three flags using the Graphics library. The user can specify the name of the country that he wants to display. The flags included are: the Iraq Flag, Syria Flag, and Yemen Flag
 
 - `wow_emoji.py`: This file demonstrates the movement of an emoji using the Turtle library. The emoji moves forward (to the right) and then back to its original position (to the left).
 
-To run an example, execute the corresponding Python script using the `python` command. For example:
-
-```
-python flags.py
-```
-
-This will open a graphics window and display the flag.
 
 ### Directory: turtle library
 
@@ -35,6 +24,7 @@ This directory contains examples of drawing symbols and natural views using the 
 - `flower.py`: this file allows users to draw a flower with a customizable number of petals. The user can specify the number of petals they want for their flower.
 
 - `natural_view_with_rainbow.py`: Draws a natural view with a rainbow.
+  
 
 To run an example, execute the corresponding Python script using the `python` command. For example:
 
@@ -44,7 +34,7 @@ python corona_symbol.py
 
 This will open a graphics window and display the symbol.
 
-Feel free to explore the different scripts and modify them to create your drawings. The graphics library offers functions for drawing lines, rectangles, circles, and more.
+You can explore and modify the different scripts to create your drawings. The graphics library offers functions for drawing lines, rectangles, circles, and more.
 
 Please refer to the documentation of the graphics library for more information.
 
